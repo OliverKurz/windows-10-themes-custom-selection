@@ -22,10 +22,7 @@ Once you made sure you're using the same ONE settings that I am, click **install
 
 If you're new to themeing on newer versions of Windows (8+) and have a problem with your theme not looking right, 90% of the time it is your configuration of ONE.
 
-4. Install [StartIsBack++](http://startisback.com/#download-tab) to skin the start menu and taskbar. Here are a few options that I recommend using:
-
-![sib](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/sib.png)
-
+4. Install [StartIsBack++](http://startisback.com/#download-tab) to skin the start menu and taskbar.
 
 I have included start orbs in "files\orbs". Select the theme's start menu and an orb in the StartIsBack++ configuration and click apply. If it's not an option to choose the theme's start menu, later on you can check once your custom theme is applied. The "files\orbs_downsized" directory contains start orbs modified to work properly with the small taskbar buttons setting enabled.
 
