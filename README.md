@@ -28,18 +28,14 @@ I have included start orbs in "files\orbs". Select the theme's start menu and an
 
 5. [Winaero Tweaker](https://winaero.com/download.php?view.1796) is the go to application for tweaking the rest of your system.
 
-6. [Aero Glass for Win8.1+](http://www.glass8.eu/) is an optional advanced customization tool worth checking out. I have included my aero glass atlas themes located in "files\atlas-theme-collection", which you could optionally move to your Aero Glass folder if you choose to install it. Aero Glass can be safely installed in the existing "AeroGlass" directory if you chose to install Theme Signature Bypass to patch you system. In "files\transparency_app" I included an app I found to perform mouse and keyboard gestures, and as a bonus it allows easy setting of transparency levels for any app.
+6. Install the fonts included in the "files\fonts" folder. This is an important step people sometimes forget. Type `ctrl+a` then rc + click "install" with "no" and "do this for all current items" clicked.
 
+7. Merge the reg files in "files\rc_context_menu" so that it's possible to switch themes from the desktop rc menu, and remove the immersive context menus that are present by default in the explorer rc menu.
 
-
-7. Install the fonts included in the "files\fonts" folder. This is an important step people sometimes forget. Type `ctrl+a` then rc + click "install" with "no" and "do this for all current items" clicked.
-
-8. Merge the reg files in "files\rc_context_menu" so that it's possible to switch themes from the desktop rc menu, and remove the immersive context menus that are present by default in the explorer rc menu.
-
-9. Merge the system metrics for the theme you intend to run included in the "files\system_metrics" folder so your window frames will be custom sized and custom fonts will display in their intended locations. You can safely overwrite the settings for a custom system metrics file by merging another.
+8. Merge the system metrics for the theme you intend to run included in the "files\system_metrics" folder so your window frames will be custom sized and custom fonts will display in their intended locations. You can safely overwrite the settings for a custom system metrics file by merging another.
 + **logout or reboot.**
 
-10. Cut/paste the contents of "themes" into your themes folder (in my experience this has always been "C:\Windows\Resources\Themes"). I had to remove the sounds and have only one wallpaper per theme to limit the download size. Apply your theme via "Control Panel -> Personalization" from the desktop rc menu "Personalize (classic) -> Theme Settings".
+9. Cut/paste the contents of "themes" into your themes folder (in my experience this has always been "C:\Windows\Resources\Themes"). I had to remove the sounds and have only one wallpaper per theme to limit the download size. Apply your theme via "Control Panel -> Personalization" from the desktop rc menu "Personalize (classic) -> Theme Settings".
 
 **I take no responsibility for anyone that bricks their system, use custom themes at your own risk!!**
 
