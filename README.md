@@ -115,7 +115,7 @@ Imported from theme: [Rockstar Mastering Works](http://virtualcustoms.net/showth
 Imported from theme: [Sophistication Incorporated Mastering Works](http://virtualcustoms.net/showthread.php/73252-Sophistication-Incorporated-Mastering-Works)
 
 #### Supernatural Hell by Razorsedge:
-![Supernatural_Hell](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Supernatural_Preview.png)
+![Supernatural_Hell](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Supernatural_Hell_Preview.png)
 Imported from theme: [Supernatural: Gates of Hell Mastering Works](http://virtualcustoms.net/showthread.php/73253-Supernatural-Gates-of-Hell-Mastering-Works)
 
 #### The Colony by Razorsedge:
