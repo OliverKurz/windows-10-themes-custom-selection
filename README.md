@@ -36,102 +36,102 @@ Theme Showcase
 --------------
 #### AMD Experience the Revolution by Razorsedge:
 ![AMD](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/AMD_Experience_the_Revolution_Preview.png)
-Imported from theme: [Revolution: The AMD Theme Mastering Works](http://virtualcustoms.net/showthread.php/73787-Revolution-The-AMD-Theme-Mastering-Works)
+Imported from the theme: [Revolution: The AMD Theme Mastering Works](http://virtualcustoms.net/showthread.php/73787-Revolution-The-AMD-Theme-Mastering-Works)
 
 #### Annihilation by Razorsedge:
 ![Annihilation](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Annihilation_Preview.png)
-Imported from theme: [Annihilation Mastering Works](http://virtualcustoms.net/showthread.php/73238-Annihilation-Mastering-Works)
+Imported from the theme: [Annihilation Mastering Works](http://virtualcustoms.net/showthread.php/73238-Annihilation-Mastering-Works)
 
 #### Annihilator by Mr GRiM:
 ![Annihilator](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Annihilator_Preview.png)
-Imported from theme: [Annihilator](http://virtualcustoms.net/showthread.php/66860-Annihilator-Windows-8-1-1-Theme)
+Imported from the theme: [Annihilator](http://virtualcustoms.net/showthread.php/66860-Annihilator-Windows-8-1-1-Theme)
 
 #### ASUS by deviantdon & one man army:
 ![ASUS](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/ASUS_Preview.png)
 
-Imported from theme: [ASUS](http://virtualcustoms.net/showthread.php/62820-Free%21%21-ASUS-Premium-Theme-pack)
+Imported from the theme: [ASUS](http://virtualcustoms.net/showthread.php/62820-Free%21%21-ASUS-Premium-Theme-pack)
 
 #### Borg by Razorsedge:
 ![Borg](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Borg_Preview.png)
-Imported from theme: [Borg Mastering Works](http://virtualcustoms.net/showthread.php/73239-Borg-Mastering-Works)
+Imported from the theme: [Borg Mastering Works](http://virtualcustoms.net/showthread.php/73239-Borg-Mastering-Works)
 
 #### By Design by Mr GRiM:
 ![By_Design](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/By_Design_Preview.png)
-Imported from theme: [By Design](http://virtualcustoms.net/showthread.php/66981-By-Design-Windows-8-1-1-Theme)
+Imported from the theme: [By Design](http://virtualcustoms.net/showthread.php/66981-By-Design-Windows-8-1-1-Theme)
 
 #### Castle by Razorsedge:
 ![Castle](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Castle_Preview.png)
-Imported from theme: [Castle Mastering Works](http://virtualcustoms.net/showthread.php/73240-Castle-Mastering-Works)
+Imported from the theme: [Castle Mastering Works](http://virtualcustoms.net/showthread.php/73240-Castle-Mastering-Works)
 
 #### Chrononaut by Razorsedge:
 ![Chrononaut](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Chrononaut_Preview.png)
-Imported from theme: [Chrononaut Mastering Works](http://virtualcustoms.net/showthread.php/73241-Chrononaut-Mastering-Works)
+Imported from the theme: [Chrononaut Mastering Works](http://virtualcustoms.net/showthread.php/73241-Chrononaut-Mastering-Works)
 
 #### DeathStar by Mr GRiM:
 ![DeathStar](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/DeathStar_Preview.png)
-Imported from theme: [DeathStar](http://virtualcustoms.net/showthread.php/66891-DeathStar-Windows-8-1-1-Theme)
+Imported from the theme: [DeathStar](http://virtualcustoms.net/showthread.php/66891-DeathStar-Windows-8-1-1-Theme)
 
 #### Elvira by Razorsedge:
 ![Elvira](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Elvira_Preview.png)
-Imported from theme: [Elvira Mistress of the Dark Mastering Works](http://virtualcustoms.net/showthread.php/73254-Elvira-Mistress-of-the-Dark-Mastering-Works)
+Imported from the theme: [Elvira Mistress of the Dark Mastering Works](http://virtualcustoms.net/showthread.php/73254-Elvira-Mistress-of-the-Dark-Mastering-Works)
 
 #### Event Horizon by Razorsedge:
 ![Event_Horizon](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Event_Horizon_Preview.png)
-Imported from theme: [Event Horizon Dual Themes: Mastering Works](http://virtualcustoms.net/showthread.php/74520-Event-Horizon-Dual-Themes-Mastering-Works)
+Imported from the theme: [Event Horizon Dual Themes: Mastering Works](http://virtualcustoms.net/showthread.php/74520-Event-Horizon-Dual-Themes-Mastering-Works)
 
 #### HUD Machine White by Mr GRiM:
 ![HUD_Machine_White](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/HUD_Machine_White_Preview.png)
-Imported from theme: [HUD Machine White](http://virtualcustoms.net/showthread.php/77756-HUD-Machine-White-for-Windows-8-1)
+Imported from the theme: [HUD Machine White](http://virtualcustoms.net/showthread.php/77756-HUD-Machine-White-for-Windows-8-1)
 
 #### HUD by Mr GRiM:
 ![HUD](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/HUD_Preview.png)
-Imported from theme: [HUD](http://virtualcustoms.net/showthread.php/33932-FREE%21%21-HUD-Premium-Windows-7-Theme)
+Imported from the theme: [HUD](http://virtualcustoms.net/showthread.php/33932-FREE%21%21-HUD-Premium-Windows-7-Theme)
 
 #### HUD Red by Mr GRiM:
 ![HUD Red](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/ASUS_Preview.png)
 
-Imported from theme: [HUD Red](http://virtualcustoms.net/showthread.php/66896-HUD-Red-Windows-8-1-1-Theme)
+Imported from the theme: [HUD Red](http://virtualcustoms.net/showthread.php/66896-HUD-Red-Windows-8-1-1-Theme)
 
 #### Metal Graveyard by Razorsedge:
 ![Metal Graveyard](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Metal_Graveyard_Preview.png)
-Imported from theme: [Metal Graveyard: Rise from the Ashes Mastering Works](http://virtualcustoms.net/showthread.php/73244-Metal-Graveyard-Rise-from-the-Ashes-Mastering-Works)
+Imported from the theme: [Metal Graveyard: Rise from the Ashes Mastering Works](http://virtualcustoms.net/showthread.php/73244-Metal-Graveyard-Rise-from-the-Ashes-Mastering-Works)
 
 #### MS One by Razorsedge:
 ![MS_One](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/MS_One_Preview.png)
-Imported from theme: [Maxium Security One Mastering Works](http://virtualcustoms.net/showthread.php/73245-Maxium-Security-One-Mastering-Works)
+Imported from the theme: [Maxium Security One Mastering Works](http://virtualcustoms.net/showthread.php/73245-Maxium-Security-One-Mastering-Works)
 
 #### Nightshade by Razorsedge:
 ![Nightshade](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Nightshade_Preview.png)
-Imported from theme: [Nightshade Mastering Works](http://virtualcustoms.net/showthread.php/73575-Nightshade-Mastering-Works)
+Imported from the theme: [Nightshade Mastering Works](http://virtualcustoms.net/showthread.php/73575-Nightshade-Mastering-Works)
 
 #### Prometheus by Razorsedge:
 ![Prometheus](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Prometheus_Preview.png)
-Imported from theme: [Prometheus Dual Themes Mastering Works](http://virtualcustoms.net/showthread.php/73248-Prometheus-Dual-Themes-Mastering-Works)
+Imported from the theme: [Prometheus Dual Themes Mastering Works](http://virtualcustoms.net/showthread.php/73248-Prometheus-Dual-Themes-Mastering-Works)
 
 #### Prometheus Revisioned by Razorsedge:
 ![Prometheus](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Prometheus_Revisioned_Preview.png)
-Imported from theme: [Prometheus Dual Themes Mastering Works](http://virtualcustoms.net/showthread.php/73248-Prometheus-Dual-Themes-Mastering-Works)
+Imported from the theme: [Prometheus Dual Themes Mastering Works](http://virtualcustoms.net/showthread.php/73248-Prometheus-Dual-Themes-Mastering-Works)
 
 #### Rockstar by Razorsedge:
 ![Rockstar](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Rockstar_Preview.png)
-Imported from theme: [Rockstar Mastering Works](http://virtualcustoms.net/showthread.php/74245-Rockstar-Mastering-Works)
+Imported from the theme: [Rockstar Mastering Works](http://virtualcustoms.net/showthread.php/74245-Rockstar-Mastering-Works)
 
 #### Sophistication Incorporated by Razorsedge:
 ![Sophistication_Incorporated](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Sophistication_Incorporated_Preview.png)
-Imported from theme: [Sophistication Incorporated Mastering Works](http://virtualcustoms.net/showthread.php/73252-Sophistication-Incorporated-Mastering-Works)
+Imported from the theme: [Sophistication Incorporated Mastering Works](http://virtualcustoms.net/showthread.php/73252-Sophistication-Incorporated-Mastering-Works)
 
 #### Supernatural Hell by Razorsedge:
 ![Supernatural_Hell](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Supernatural_Hell_Preview.png)
-Imported from theme: [Supernatural: Gates of Hell Mastering Works](http://virtualcustoms.net/showthread.php/73253-Supernatural-Gates-of-Hell-Mastering-Works)
+Imported from the theme: [Supernatural: Gates of Hell Mastering Works](http://virtualcustoms.net/showthread.php/73253-Supernatural-Gates-of-Hell-Mastering-Works)
 
 #### The Colony by Razorsedge:
 ![The_Colony](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/The_Colony_Preview.png)
-Imported from theme: [The Colony Mastering Works](http://virtualcustoms.net/showthread.php/73251-The-Colony-Mastering-Works)
+Imported from the theme: [The Colony Mastering Works](http://virtualcustoms.net/showthread.php/73251-The-Colony-Mastering-Works)
 
 #### Toxic by Mr GRiM:
 ![Toxic](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Toxic_Preview.png)
-Imported from theme: [Toxic](http://virtualcustoms.net/showthread.php/66895-Toxic-Windows-8-1-1-Theme)
+Imported from the theme: [Toxic](http://virtualcustoms.net/showthread.php/66895-Toxic-Windows-8-1-1-Theme)
 
 #### Zero-G by Mr GRiM:
 ![Zero-G](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Zero-G_Preview.png)
-Imported from theme: [Zero-G](http://virtualcustoms.net/showthread.php/66862-Zero-G-1-0-Windows-8-1-1-Theme)
+Imported from the theme: [Zero-G](http://virtualcustoms.net/showthread.php/66862-Zero-G-1-0-Windows-8-1-1-Theme)
