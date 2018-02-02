@@ -47,6 +47,7 @@ Imported from theme: [Annihilation Mastering Works](http://virtualcustoms.net/sh
 Imported from theme: [Annihilator](http://virtualcustoms.net/showthread.php/66860-Annihilator-Windows-8-1-1-Theme)
 
 #### ASUS by deviantdon & one man army:
+![ASUS](https://github.com/OliverKurz/windows-10-theme-collection/raw/master/images/ASUS_Preview.png)
 Imported from theme: [ASUS](http://virtualcustoms.net/showthread.php/62820-Free%21%21-ASUS-Premium-Theme-pack)
 
 #### Borg by Razorsedge:
