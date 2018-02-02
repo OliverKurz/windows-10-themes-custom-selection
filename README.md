@@ -76,8 +76,7 @@ Imported from theme: [DeathStar](http://virtualcustoms.net/showthread.php/66891-
 Imported from theme: [Elvira Mistress of the Dark Mastering Works](http://virtualcustoms.net/showthread.php/73254-Elvira-Mistress-of-the-Dark-Mastering-Works)
 
 #### Event Horizon by Razorsedge:
-![Event_Horizon](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Event_Horizon_Preview_1.png)
-![Event_Horizon](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Event_Horizon_Preview_2.png)
+![Event_Horizon](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Event_Horizon_Preview.png)
 Imported from theme: [Event Horizon Dual Themes: Mastering Works](http://virtualcustoms.net/showthread.php/74520-Event-Horizon-Dual-Themes-Mastering-Works)
 
 #### HUD Machine White by Mr GRiM:
@@ -93,8 +92,7 @@ Imported from theme: [HUD](http://virtualcustoms.net/showthread.php/66896-HUD-Re
 Imported from theme: [Metal Graveyard: Rise from the Ashes Mastering Works](http://virtualcustoms.net/showthread.php/73244-Metal-Graveyard-Rise-from-the-Ashes-Mastering-Works)
 
 #### MS One by Razorsedge:
-![MS_One](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/MS_One_Preview_1.png)
-![MS_One](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/MS_One_Preview_2.png)
+![MS_One](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/MS_One_Preview.png)
 Imported from theme: [Maxium Security One Mastering Works](http://virtualcustoms.net/showthread.php/73245-Maxium-Security-One-Mastering-Works)
 
 #### Nightshade by Razorsedge:
@@ -103,8 +101,11 @@ Imported from theme: [Maxium Security One Mastering Works](http://virtualcustoms
 Imported from theme: [Nightshade Mastering Works](http://virtualcustoms.net/showthread.php/73575-Nightshade-Mastering-Works)
 
 #### Prometheus by Razorsedge:
-![Prometheus](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Prometheus_Preview_1.png)
-![Prometheus](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Prometheus_Preview_2.png)
+![Prometheus](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Prometheus_Preview.png)
+Imported from theme: [Prometheus Dual Themes Mastering Works](http://virtualcustoms.net/showthread.php/73248-Prometheus-Dual-Themes-Mastering-Works)
+
+#### Prometheus Revisioned by Razorsedge:
+![Prometheus](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Prometheus_Revisioned_Preview.png)
 Imported from theme: [Prometheus Dual Themes Mastering Works](http://virtualcustoms.net/showthread.php/73248-Prometheus-Dual-Themes-Mastering-Works)
 
 #### Rockstar by Razorsedge:
