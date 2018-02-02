@@ -47,7 +47,7 @@ Imported from the theme: [Annihilation Mastering Works](http://virtualcustoms.ne
 Imported from the theme: [Annihilator](http://virtualcustoms.net/showthread.php/66860-Annihilator-Windows-8-1-1-Theme)
 
 #### ASUS by deviantdon & one man army:
-![ASUS](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/ASUS_Preview.png)
+![ASUS](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/No_Preview.png)
 
 Imported from the theme: [ASUS](http://virtualcustoms.net/showthread.php/62820-Free%21%21-ASUS-Premium-Theme-pack)
 
@@ -88,7 +88,7 @@ Imported from the theme: [HUD Machine White](http://virtualcustoms.net/showthrea
 Imported from the theme: [HUD](http://virtualcustoms.net/showthread.php/33932-FREE%21%21-HUD-Premium-Windows-7-Theme)
 
 #### HUD Red by Mr GRiM:
-![HUD Red](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/HUD_Red_Preview.png)
+![HUD Red](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/No_Preview.png)
 
 Imported from the theme: [HUD Red](http://virtualcustoms.net/showthread.php/66896-HUD-Red-Windows-8-1-1-Theme)
 
