@@ -96,8 +96,7 @@ Imported from theme: [Metal Graveyard: Rise from the Ashes Mastering Works](http
 Imported from theme: [Maxium Security One Mastering Works](http://virtualcustoms.net/showthread.php/73245-Maxium-Security-One-Mastering-Works)
 
 #### Nightshade by Razorsedge:
-![Nightshade](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Nightshade_Preview_1.png)
-![Nightshade](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Nightshade_Preview_2.png)
+![Nightshade](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Nightshade_Preview.png)
 Imported from theme: [Nightshade Mastering Works](http://virtualcustoms.net/showthread.php/73575-Nightshade-Mastering-Works)
 
 #### Prometheus by Razorsedge:
