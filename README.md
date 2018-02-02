@@ -88,7 +88,7 @@ Imported from the theme: [HUD Machine White](http://virtualcustoms.net/showthrea
 Imported from the theme: [HUD](http://virtualcustoms.net/showthread.php/33932-FREE%21%21-HUD-Premium-Windows-7-Theme)
 
 #### HUD Red by Mr GRiM:
-![HUD Red](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/ASUS_Preview.png)
+![HUD Red](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/HUD_Red_Preview.png)
 
 Imported from the theme: [HUD Red](http://virtualcustoms.net/showthread.php/66896-HUD-Red-Windows-8-1-1-Theme)
 
