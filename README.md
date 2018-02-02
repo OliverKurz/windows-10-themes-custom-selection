@@ -90,7 +90,7 @@ Imported from theme: [HUD](http://virtualcustoms.net/showthread.php/33932-FREE%2
 #### HUD Red by Mr GRiM:
 ![HUD Red](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/ASUS_Preview.png)
 
-Imported from theme: [HUD](http://virtualcustoms.net/showthread.php/66896-HUD-Red-Windows-8-1-1-Theme)
+Imported from theme: [HUD Red](http://virtualcustoms.net/showthread.php/66896-HUD-Red-Windows-8-1-1-Theme)
 
 #### Metal Graveyard by Razorsedge:
 ![Metal Graveyard](https://github.com/OliverKurz/windows-10-themes-custom-selection/raw/master/images/Metal_Graveyard_Preview.png)
