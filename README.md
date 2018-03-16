@@ -21,6 +21,8 @@ Start orbs are in "files\orbs". Select the theme's start menu and an orb in the 
 
 5. [Winaero Tweaker](https://winaero.com/download.php?view.1796) is the application for tweaking the rest of your system.
 
+6. [Aero Glass](http://virtualcustoms.net/showthread.php/72751-Aero-Glass-for-Windows-10-RS1) is the application for tweaking the rest of your system.
+
 6. Install the fonts included in the "files\fonts" folder. Type ctrl+a then right click, click "install" with "no" and "do this for all current items" checked.
 
 7. Merge the registry tweaks in "files\rc_context_menu" so that it's possible to switch themes from the desktop right click menu
