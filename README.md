@@ -1,5 +1,5 @@
-Windows 10 Theme Collection
-===========================
+Windows 10 Theme Custom Collection
+==================================
 Installation Walkthrough
 ------------------------
 1. Before applying any custom theme, create a restore point. 
@@ -25,7 +25,7 @@ Start orbs are in "files\orbs". Select the theme's start menu and an orb in the 
 
 7. Install the fonts included in the "files\fonts" folder. Type ctrl+a then right click, click "install" with "no" and "do this for all current items" checked.
 
-8. Merge the registry tweaks in "files\rc_context_menu" so that it's possible to switch themes from the desktop right click menu
+8. Merge the registry tweaks in "files\rc_context_menu" so that it's possible to switch themes from the desktop right click menu.
 
 9.  Merge a system metrics registry file in "files\system_metrics" so borders and fonts can be adjusted.
 + **logout or reboot at some point.**
